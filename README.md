@@ -9,6 +9,6 @@ WHAT IS SPRECARE?
 Basic idea of SPRECARE is to eradicate the wastage of food with some technological touch which will make students to contribute into the idea more efficiently. use of programming in an unconventional situation will generate interest among students and the idea will get a push to be presented in different areas.  
 The main idea of SPRECARE is to launch a website for the canteen chief/head which he can create an account and evaluate the wastage of food through colours. As we all know identifying a food based on colour and relating it to a programming stream is totally an unconventional situation. This situation will evoke more students to assist SPRECARE.
 Wastes are identified using colours.so at first the user will have information about the food and its colour.wastes are analysed by the colour and a report is generated.
-
+based on the report the food are limited based on some conditions
  
 
