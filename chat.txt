@@ -1,15 +1,4 @@
-
-STARKS
-    
-
-3
-
-suresh added Sivaprasad Pr, Aashar ck and GEO MANUEL GEORGE to the Hangout.
-13:21
-suresh babu
 this is a test
-suresh • 13:23
-suresh babu
 Dear All
 
 Thank you for registering for MITS Hackathon. We have received overwhelming response from the student community and got more than double the number we can accommodate. So, we are forced to shortlist teams from the list and take it forward.
@@ -35,227 +24,108 @@ You are requested to create the GitHub account for the team today itself and rep
 Thanks and Regards
 
 Mahalingam P R
-suresh • 15:11
-GEO MANUEL GEORGE (geomanuelgeorgekolliyil@gmail.com)
 boys
-GEO MANUEL • 15:35
-suresh babu
 para da
-suresh • 15:36
 templates download cheythoode?
-59 mins
-suresh babu
 aaam
 searching for that
 namude common mail id password enthaaa
-suresh • 58 mins
 geo i need the details of what should be there on the site
-58 mins
-GEO MANUEL GEORGE (geomanuelgeorgekolliyil@gmail.com)
 starks mail id para
-GEO MANUEL • 57 mins
 starkscse@gmail.com
-57 mins
-GEO MANUEL GEORGE (geomanuelgeorgekolliyil@gmail.com)
 ok working on it @aashar
-GEO MANUEL • 57 mins
-suresh babu
 password para
 njan wordpressil kerette
-suresh • 57 mins
 csecsecse99
 kerikko
-56 mins
-suresh babu
 ath github password aann
 email venam
-suresh • 55 mins
-Sivaprasad Pr
 eda github account sent chytharnno?
-Sivaprasad • 53 mins
 email password siva knows
 areela 
-53 mins
-Sivaprasad Pr
 eda sure ne alle grp mail create chythe
-Sivaprasad • 53 mins
 suresh look at this template https://templated.co/ion 
 password maranno?
-52 mins
-Sivaprasad Pr
 da documentryil why what okke seperate akki ezhuthano
 atho full para form mathyoo
-Sivaprasad • 51 mins
 i dont know ..
-51 mins
-Sivaprasad Pr
  i will seperatly right ok?
-Sivaprasad • 50 mins
 ok
-50 mins
-suresh babu
 daaaa nee innale oru mail undakkittalle github acct undakkiye
 aaaa mail id
 password
-suresh • 50 mins
 siva ...as an introduction add details on the amount of waste produced every year
-49 mins
-Sivaprasad Pr
 yeah yeah 
 i will work on it
-Sivaprasad • 48 mins
 ok
-48 mins
-Sivaprasad Pr
 ningal pettann chytho
-Sivaprasad • 48 mins
-GEO MANUEL GEORGE (geomanuelgeorgekolliyil@gmail.com)
 git command used to add a file in a folder
 ?
-GEO MANUEL • 48 mins
-Sivaprasad Pr
 eda sureshe
-sirnu url ayatch kodukkan
-Sivaprasad • 48 mins
-suresh babu
 para
-suresh • 48 mins
-Sivaprasad Pr
+sirnu url ayatch kodukkan
 not mail id
 ethenkilum oru new repositoryude url ayakk
-Sivaprasad • 47 mins
 git add filename
-47 mins
-Sivaprasad Pr
 sent immediatly 
 he is asking ?/
 sent url of a new repository or an excisting one
-Sivaprasad • 46 mins
-GEO MANUEL GEORGE (geomanuelgeorgekolliyil@gmail.com)
 ok i have sent the admin page of canteen website on the repository microhack1
-GEO MANUEL • 46 mins
-Sivaprasad Pr
 ok
-Sivaprasad • 46 mins
 did you start on wordpress? suraa
-46 mins
-suresh babu
 YES
 NOKKUA
-suresh • 46 mins
 we need a name for the website . some one suggest some
-45 mins
-GEO MANUEL GEORGE (geomanuelgeorgekolliyil@gmail.com)
 !!!!!!!Taste better.... waste lesser....
-GEO MANUEL • 42 mins
 more of a short name would be better
-42 mins
-GEO MANUEL GEORGE (geomanuelgeorgekolliyil@gmail.com)
 okay
-GEO MANUEL • 40 mins
 suraa .... endhaii
-30 min ollu
-39 mins
-suresh babu
 CHEYUADAAA
+30 min ollu
 site name para
-suresh • 39 mins
 wordpress aaana?
-39 mins
-GEO MANUEL GEORGE (geomanuelgeorgekolliyil@gmail.com)
 
 sprecare meno
 means waste less
 italian
-GEO MANUEL • 38 mins
-suresh babu
 smart canteen???
-suresh • 38 mins
 geo adh madhi
 sureshee ....sprecare meno ennn name itttoo
-36 mins
-suresh babu
 OK ENTHAAYEDA
-suresh • 34 mins
-Sivaprasad Pr
 canteen food management system
 is the head ok?
-Sivaprasad • 33 mins
 ok 
-32 mins
-suresh babu
 SPRECARE KODUKK
 thazhe bakki kodukkam
 geo display cheyyenda contents thaaa
-suresh • 31 mins
 Sprecare meno 
-31 mins
-suresh babu
 pore?
 daaa pinne sitil display cheyyenda photo namude canteente mathi
 ath kittuanel share cheyyuu
-suresh • 28 mins
 canteen photo indo 
 adhonnum nirbhandham illa
-28 mins
-suresh babu
 yeah, i see somewhere on web
-suresh • 28 mins
 nee onn screeshot eduth site kaanich thaa
-28 mins
-Sivaprasad Pr
 use mits site to get the pic
-Sivaprasad • 27 mins
-suresh babu
 alla, chumma impress aayallo
-suresh • 27 mins
 siva readme file edit cheydh kazhinjo?
 then senfd
-26 mins
-suresh babu
 geo contents ithu vare kittella
-suresh • 25 mins
-GEO MANUEL GEORGE (geomanuelgeorgekolliyil@gmail.com)
 HOWS WEBSITE
-GEO MANUEL • 25 mins
-suresh babu
 ath githubil upload cheyy
-suresh • 25 mins
-GEO MANUEL GEORGE (geomanuelgeorgekolliyil@gmail.com)
 OK 1 MIN
-GEO MANUEL • 25 mins
 da  suraa website kaanich thhaaa
-24 mins
-suresh babu
 https://canteenwastemanagement.wordpress.com/?p=15
-suresh • 22 mins
-GEO MANUEL GEORGE (geomanuelgeorgekolliyil@gmail.com)
 HOME PAGE IS ALREADY  DONE
-GEO MANUEL • 22 mins
-suresh babu
 ONNUM AAYILLEDA
-suresh • 22 mins
-Sivaprasad Pr
 da wordil atto cheyyane
-Sivaprasad • 22 mins
-suresh babu
 AAAM, ennit txt file aakkiya mathi
-suresh • 22 mins
-Sivaprasad Pr
 ok
-Sivaprasad • 21 mins
-GEO MANUEL GEORGE (geomanuelgeorgekolliyil@gmail.com)
 SPRECARE MENO
 not just sprecare
 suresh!!
-GEO MANUEL • 20 mins
-Sivaprasad Pr
 spregare enthonnaaa
-Sivaprasad • 20 mins
-suresh babu
 ok
-suresh • 15 mins
-GEO MANUEL GEORGE (geomanuelgeorgekolliyil@gmail.com)
 its SPRECARE MENO
 i have sent 3 files
 1.canteen
@@ -263,33 +133,22 @@ i have sent 3 files
 3.wcm
 this is order
 *this is the order
-GEO MANUEL • 13 mins
 sura endhaiii
 vegam para
-11 mins
-suresh babu
 oonum aaayillaloda
 enthu cheyyum
 decumentation pakka aaakk
-suresh • 10 mins
 njan korch cheythitind wordpressil but full aayit illa
-10 mins
-GEO MANUEL GEORGE (geomanuelgeorgekolliyil@gmail.com)
 SPRECARE MANO aanuh
 SORRY 
 SPRECARE MENO
-GEO MANUEL • 10 mins
 ellarum githubil uppload cheyy
-9 mins
-GEO MANUEL GEORGE (geomanuelgeorgekolliyil@gmail.com)
 ALREADY DONE
-GEO MANUEL • 9 mins
-Sivaprasad Pr
 EDA ENGANA SENDANE
 CANTEEN FOOD MANAGEMENT SYSTEM (CFMS) - SPRECARE
 INTRODUCTION
 FAO (Food and accommodation organisation) estimated that each year, approximately one-third of all food produced for human consumption in the world is lost or wasted. This food wastage represents a missed opportunity to improve global food security , but also to mitigate environmental impacts and resources use from food chains .Indians waste as much food as the whole of United Kingdom consumes – a statistic that may not so much indicative of our love of surfeit, as it is of our population. Still, food wastage is an alarming issue in India. Our street and garbage bins, landfills have sufficient proof to prove it. Weddings, canteens, hotels, social and family functions, households spew out so much food. 
-Changes are to be made from the ground level itself. So our group has decided to initiate a canteen food management system which will eradicate wastage of food up to an extent within our limit. 
+Changes are to be made from the ground level itself. So our group has decided to initiate a canteen food management system which will eradicate wastage of food up to an extent within our limit.
  
 WHAT IS SPRECARE?
  
@@ -300,112 +159,51 @@ The main idea of SPRECARE is to launch a website for the canteen chief/head whic
  
  
 EDA ITHRE CHYTHOLLU
-Sivaprasad • 9 mins
-GEO MANUEL GEORGE (geomanuelgeorgekolliyil@gmail.com)
 mathi
 upload file
 option
-GEO MANUEL • 8 mins
 UPLOAD
-8 mins
-Sivaprasad Pr
 eda ith copy cheyy
 or i will sen to ashikka
-Sivaprasad • 8 mins
-suresh babu
 daaa code edukkan pattanilla'html'
 what to do
-suresh • 7 mins
 sura ninte weshit
 chhee 
 ini endh cheyum
-7 mins
-suresh babu
 link mathiyo
-suresh • 7 mins
-GEO MANUEL GEORGE (geomanuelgeorgekolliyil@gmail.com)
 mimathi
 mathi
-siva
-GEO MANUEL • 7 mins
-suresh babu
 https://canteenwastemanagement.wordpress.com/?p=15
+siva
 ith add cheyy
-suresh • 7 mins
-Sivaprasad Pr
 eda njn ashikkakk mailil send chythitund
-Sivaprasad • 6 mins
-suresh babu
 bakki venel purathirunnu edit cheyyam
-suresh • 6 mins
-Sivaprasad Pr
 enthelum para
-aarelum
-Sivaprasad • 6 mins
-suresh babu
 daaa github upload cheyy
-suresh • 6 mins
-GEO MANUEL GEORGE (geomanuelgeorgekolliyil@gmail.com)
+aarelum
 aashikka
-GEO MANUEL • 6 mins
-Sivaprasad Pr
 okk
-Sivaprasad • 6 mins
-suresh babu
 ellam cheythath
-suresh • 6 mins
-GEO MANUEL GEORGE (geomanuelgeorgekolliyil@gmail.com)
 enik mail cheyy'
 doc upload cheeyy
 allenki enik mil chey
 mail
-GEO MANUEL • 5 mins
-GEO MANUEL GEORGE (geomanuelgeorgekolliyil@gmail.com)
- 
-17 new messages
- 
-Sivaprasad Pr
 eda njn readme aayi ittitund
 geo check mail
 or aashikka
-Sivaprasad • 3 mins
-suresh babu
 daaa sitelink txt file aaayitt idamo
 https://canteenwastemanagement.wordpress.com/?p=15
-suresh • 3 mins
-Sivaprasad Pr
 eda enteth kityooo
-Sivaprasad • 3 mins
-suresh babu
 entel paste option polum kittanilla
 pinne chat upload cheyyanem
-suresh • 3 mins
-Sivaprasad Pr
 anyone tell something?
-Sivaprasad • 1 min
-suresh babu
 enthaada
-suresh • 1 min
-Sivaprasad Pr
 txt file kityo
-Sivaprasad • 1 min
-suresh babu
 nee upload cheythille
 ath mathi
-suresh • 1 min
-Sivaprasad Pr
 njn githubil chythe
-Sivaprasad • 1 min
-Sivaprasad Pr
-suresh babu
 documentation pakka aaayirikkanem
 mathi
 chat copy paste cheyth github il upload aaakk
-suresh • Now
-suresh babu
-Sivaprasad Pr
-GEO MANUEL GEORGE (geomanuelgeorgekolliyil@gmail.com)
-
-
 Send a message
 
